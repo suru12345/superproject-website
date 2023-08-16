@@ -1,0 +1,45 @@
+
+.logo_logo {
+    width: 450px;
+    height: 120px  
+}
+
+.main_title {
+    text-align: center;
+    font-size: 100px;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.main_title:hover {
+    color: black;
+}
+
+.card {
+    text-align: center;
+    background-color: transparent;
+    border: none;
+    font-weight: bold;
+    color: white;
+    font-size: 30px;
+    margin-top: 150px;
+}
+
+.sub_button {
+    font-weight: bold;
+    background-color: transparent;
+    border: solid;
+    border-width: 2px;
+    border-color: rgb(253, 122, 0);
+    border-radius: 5px;
+    color: rgb(253, 122, 0);
+    transition: 0.15s   ;
+    width: 150px;
+}
+
+.sub_button:hover {
+    color: black;
+    background-color: rgb(253, 122, 0);
+}
